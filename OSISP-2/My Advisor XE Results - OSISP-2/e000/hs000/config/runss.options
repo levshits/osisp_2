@@ -1,0 +1,15 @@
+-r
+C:\Users\Valentin\documents\visual studio 2013\Projects\OSISP-2\OSISP-2\My Advisor XE Results - OSISP-2\e000\hs000
+-type
+cpu:stack
+--data-limit-mb=100
+--stack-stitching
+--follow-child
+--stackwalk=offline
+--mrte-mode=auto
+--search-dir
+sym=C:/Users/Valentin/documents/visual studio 2013/Projects/OSISP-2/x64/Debug
+--search-dir
+sym=C:/Users/Valentin/documents/visual studio 2013/Projects/OSISP-2
+--
+C:\Users\Valentin\documents\visual studio 2013\Projects\OSISP-2\x64\Debug\OSISP-2.exe

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippets>
+  <file name="c:\users\valentin\documents\visual studio 2013\projects\osisp-2\osisp-2\fileiterator.cpp" md5="fcf2f68c04f42998adbc7713875db09f">
+    <snippet line="43">
+      <line line="40">    if (isEnd)</line>
+      <line line="41">        return NULL;</line>
+      <line line="42">    wchar_t* buffer = (wchar_t*)malloc((wcslen(directoryPath)+wcslen(FindFileData.cFileName) +3)*sizeof(wchar_t));</line>
+      <line line="43">    wcscpy(buffer, directoryPath);</line>
+      <line line="44">    wcscat(buffer, FindFileData.cFileName);</line>
+    </snippet>
+  </file>
+  <file name="c:\users\valentin\documents\visual studio 2013\projects\osisp-2\osisp-2\findhashoffile.cpp" md5="c412de1bb186a99de767821517834635">
+    <snippet line="108">
+      <line line="105">    if (CryptGetHashParam(hHash, HP_HASHVAL, rgbHash, &amp;cbHash, 0))</line>
+      <line line="106">    {</line>
+      <line line="107">        logmessage = (wchar_t*)calloc((2*cbHash+2), sizeof(wchar_t));</line>
+      <line line="108">        for (DWORD i = 0; i &lt; cbHash; i++)</line>
+      <line line="109">        {</line>
+    </snippet>
+  </file>
+  <file name="c:\users\valentin\documents\visual studio 2013\projects\osisp-2\osisp-2\threadpool.cpp" md5="b71d1be87dea5fa7ebea609d3f18927c">
+    <snippet line="13">
+      <line line="10">{</line>
+      <line line="11">    countOfThreads = count;</line>
+      <line line="12">    threads = new HANDLE[count];</line>
+      <line line="13">    isRunning = true;</line>
+      <line line="14">    InitializeCriticalSection(&amp;criticalSection);</line>
+    </snippet>
+    <snippet line="22">
+      <line line="19">    for (int i = 0; i&lt;countOfThreads; i++)</line>
+      <line line="20">    {</line>
+      <line line="21">        threads[i] = CreateThread(NULL, 0, ThreadStart, (void*)this, 0, NULL);</line>
+      <line line="22">    }</line>
+      <line line="23">}</line>
+    </snippet>
+  </file>
+</snippets>

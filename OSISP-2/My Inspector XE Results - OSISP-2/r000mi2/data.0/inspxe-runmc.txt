@@ -1,0 +1,34 @@
+
+=== Start: [2014/10/22 19:55:30] === 
+Analysis started...
+Result file: C:\Users\Valentin\documents\visual studio 2013\Projects\OSISP-2\OSISP-2\My Inspector XE Results - OSISP-2\r000mi2\r000mi2.inspxe 
+Analysis started for C:\Users\Valentin\documents\visual studio 2013\Projects\OSISP-2\x64\Debug\OSISP-2.exe (pid = 5544) 
+Loaded module: C:\Program Files\NVIDIA Corporation\CoProcManager\detoured.dll, address range [0x000000000F000000-0x000000000F005FFF] 
+Loaded module: C:\Program Files (x86)\Intel\Inspector XE 2013\bin64\ccrt12.dll, address range [0x00000000C6000000-0x00000000C61ADFFF], minimal analysis 
+Loaded module: C:\Program Files (x86)\Intel\Inspector XE 2013\bin64\dnclrprof.dll, address range [0x0000000180000000-0x0000000180035FFF] 
+Loaded module: C:\Users\Valentin\documents\visual studio 2013\Projects\OSISP-2\x64\Debug\OSISP-2.exe, address range [0x00007FF67A610000-0x00007FF67A62CFFF] 
+Loaded module: C:\Program Files\NVIDIA Corporation\CoProcManager\nvdxgiwrapx.dll, address range [0x00007FFE236D0000-0x00007FFE236F1FFF] 
+Loaded module: C:\Program Files\NVIDIA Corporation\CoProcManager\nvd3d9wrapx.dll, address range [0x00007FFE23960000-0x00007FFE23991FFF] 
+Loaded module: C:\Windows\system32\nvinitx.dll, address range [0x00007FFE25500000-0x00007FFE25530FFF] 
+Loaded module: C:\Windows\system32\CFGMGR32.dll, address range [0x00007FFE25850000-0x00007FFE25899FFF] 
+Loaded module: C:\Windows\system32\KERNELBASE.dll, address range [0x00007FFE25950000-0x00007FFE25A5EFFF] 
+Loaded module: C:\Windows\SYSTEM32\sechost.dll, address range [0x00007FFE25A80000-0x00007FFE25AD6FFF] 
+Loaded module: C:\Windows\system32\USER32.dll, address range [0x00007FFE26F50000-0x00007FFE270C0FFF] 
+Loaded module: C:\Windows\system32\GDI32.dll, address range [0x00007FFE270D0000-0x00007FFE27213FFF] 
+Loaded module: C:\Windows\SYSTEM32\combase.dll, address range [0x00007FFE272C0000-0x00007FFE27495FFF] 
+Loaded module: C:\Windows\system32\SETUPAPI.dll, address range [0x00007FFE274A0000-0x00007FFE27673FFF] 
+Loaded module: C:\Windows\system32\RPCRT4.dll, address range [0x00007FFE277B0000-0x00007FFE278E6FFF] 
+Loaded module: C:\Windows\system32\IMM32.DLL, address range [0x00007FFE278F0000-0x00007FFE27923FFF] 
+Loaded module: C:\Windows\system32\ADVAPI32.dll, address range [0x00007FFE27C60000-0x00007FFE27D04FFF] 
+Loaded module: C:\Windows\system32\MSCTF.dll, address range [0x00007FFE27D10000-0x00007FFE27E48FFF] 
+Loaded module: C:\Windows\system32\ole32.dll, address range [0x00007FFE27E60000-0x00007FFE27FD7FFF] 
+Loaded module: C:\Windows\system32\KERNEL32.DLL, address range [0x00007FFE27FE0000-0x00007FFE28119FFF] 
+Loaded module: C:\Windows\system32\msvcrt.dll, address range [0x00007FFE28120000-0x00007FFE281C6FFF] 
+Loaded module: C:\Windows\SYSTEM32\ntdll.dll, address range [0x00007FFE281D0000-0x00007FFE28375FFF] 
+Loaded module: C:\Windows\SYSTEM32\MSVCR120D.dll, address range [0x00007FFE06580000-0x00007FFE06790FFF] 
+Loaded module: C:\Windows\SYSTEM32\MSVCP120D.dll, address range [0x00007FFE19D40000-0x00007FFE19E52FFF] 
+Loaded module: C:\Windows\SYSTEM32\CRYPTSP.dll, address range [0x00007FFE24DD0000-0x00007FFE24DEDFFF] 
+Loaded module: C:\Windows\system32\rsaenh.dll, address range [0x00007FFE24A10000-0x00007FFE24A44FFF] 
+Loaded module: C:\Windows\SYSTEM32\bcrypt.dll, address range [0x00007FFE25000000-0x00007FFE25025FFF] 
+Loaded module: C:\Windows\SYSTEM32\CRYPTBASE.dll, address range [0x00007FFE25380000-0x00007FFE25389FFF] 
+Loaded module: C:\Windows\SYSTEM32\bcryptPrimitives.dll, address range [0x00007FFE25320000-0x00007FFE2537FFFF] 

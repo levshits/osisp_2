@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<diags major="2" minor="0">
+
+<diag id="1">
+	<type>233</type>
+	<message>
+		<timestamp>605708372</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>4464</threadid>
+			<stackstamp>605744805</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Windows\SYSTEM32\ntdll.dll</mod>
+			<rva>0x00000000000231DD</rva>
+			</loc>
+			</stacktrace>
+		</thread>
+	</message>
+</diag>
+
+<diag id="2">
+	<type>233</type>
+	<message>
+		<timestamp>47058443738</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>7904</threadid>
+			<stackstamp>47058479012</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\Valentin\documents\visual studio 2013\Projects\OSISP-2\x64\Debug\OSISP-2.exe</mod>
+			<rva>0x0000000000001118</rva>
+			</loc>
+			</stacktrace>
+		</thread>
+	</message>
+</diag>
+
+<diag id="3">
+	<type>233</type>
+	<message>
+		<timestamp>47099658592</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>4128</threadid>
+			<stackstamp>47099681695</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\Valentin\documents\visual studio 2013\Projects\OSISP-2\x64\Debug\OSISP-2.exe</mod>
+			<rva>0x0000000000001118</rva>
+			</loc>
+			</stacktrace>
+		</thread>
+	</message>
+</diag>
+
+<diag id="4">
+	<type>233</type>
+	<message>
+		<timestamp>47108831438</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>5388</threadid>
+			<stackstamp>47108847739</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\Valentin\documents\visual studio 2013\Projects\OSISP-2\x64\Debug\OSISP-2.exe</mod>
+			<rva>0x0000000000001118</rva>
+			</loc>
+			</stacktrace>
+		</thread>
+	</message>
+</diag>
+
+<diag id="5">
+	<type>233</type>
+	<message>
+		<timestamp>47185068173</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>6540</threadid>
+			<stackstamp>47185091485</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\Valentin\documents\visual studio 2013\Projects\OSISP-2\x64\Debug\OSISP-2.exe</mod>
+			<rva>0x0000000000001118</rva>
+			</loc>
+			</stacktrace>
+		</thread>
+	</message>
+</diag>
+
+<diag id="6">
+	<type>233</type>
+	<message>
+		<timestamp>47247627858</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>4224</threadid>
+			<stackstamp>47247662483</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\Valentin\documents\visual studio 2013\Projects\OSISP-2\x64\Debug\OSISP-2.exe</mod>
+			<rva>0x0000000000001118</rva>
+			</loc>
+			</stacktrace>
+		</thread>
+	</message>
+</diag>
+
+<diag id="7">
+	<type>231</type>
+	<message>
+		<timestamp>96310242088</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>7904</threadid>
+			<stackstamp>96310258514</stackstamp>
+		</thread>
+	</message>
+</diag>
+
+<diag id="8">
+	<type>231</type>
+	<message>
+		<timestamp>96313209641</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>4224</threadid>
+			<stackstamp>96313227703</stackstamp>
+		</thread>
+	</message>
+</diag>
+
+<diag id="9">
+	<type>231</type>
+	<message>
+		<timestamp>96313689079</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>6540</threadid>
+			<stackstamp>96313705279</stackstamp>
+		</thread>
+	</message>
+</diag>
+
+<diag id="10">
+	<type>231</type>
+	<message>
+		<timestamp>96314080827</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>5388</threadid>
+			<stackstamp>96314103322</stackstamp>
+		</thread>
+	</message>
+</diag>
+
+<diag id="11">
+	<type>231</type>
+	<message>
+		<timestamp>96314411514</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>4128</threadid>
+			<stackstamp>96314426808</stackstamp>
+		</thread>
+	</message>
+</diag>
+
+<diag id="12">
+	<type>231</type>
+	<message>
+		<timestamp>98717944064</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>4464</threadid>
+			<stackstamp>98717961268</stackstamp>
+		</thread>
+	</message>
+</diag>
+
+<diag id="13">
+	<type>1012</type>
+	<message>
+		<timestamp>98749590085</timestamp>
+		<mess_blocks>5</mess_blocks>
+		<defined>
+			<thrname></thrname>
+			<size>216</size>
+			<threadid>4464</threadid>
+			<stackstamp>48274158172</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\Valentin\documents\visual studio 2013\Projects\OSISP-2\x64\Debug\OSISP-2.exe</mod>
+			<rva>0x0000000000002ADB</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Valentin\documents\visual studio 2013\Projects\OSISP-2\x64\Debug\OSISP-2.exe</mod>
+			<rva>0x00000000000058E6</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Valentin\documents\visual studio 2013\Projects\OSISP-2\x64\Debug\OSISP-2.exe</mod>
+			<rva>0x0000000000009498</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Valentin\documents\visual studio 2013\Projects\OSISP-2\x64\Debug\OSISP-2.exe</mod>
+			<rva>0x00000000000095C9</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\system32\KERNEL32.DLL</mod>
+			<rva>0x00000000000016AB</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SYSTEM32\ntdll.dll</mod>
+			<rva>0x0000000000054407</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="14">
+	<type>1012</type>
+	<message>
+		<timestamp>98749590085</timestamp>
+		<mess_blocks>1</mess_blocks>
+		<defined>
+			<thrname></thrname>
+			<size>40</size>
+			<threadid>4464</threadid>
+			<stackstamp>47001001692</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\Valentin\documents\visual studio 2013\Projects\OSISP-2\x64\Debug\OSISP-2.exe</mod>
+			<rva>0x0000000000005B4D</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Valentin\documents\visual studio 2013\Projects\OSISP-2\x64\Debug\OSISP-2.exe</mod>
+			<rva>0x000000000000584D</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Valentin\documents\visual studio 2013\Projects\OSISP-2\x64\Debug\OSISP-2.exe</mod>
+			<rva>0x0000000000009498</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Valentin\documents\visual studio 2013\Projects\OSISP-2\x64\Debug\OSISP-2.exe</mod>
+			<rva>0x00000000000095C9</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\system32\KERNEL32.DLL</mod>
+			<rva>0x00000000000016AB</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SYSTEM32\ntdll.dll</mod>
+			<rva>0x0000000000054407</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="15">
+	<type>1012</type>
+	<message>
+		<timestamp>98749590085</timestamp>
+		<mess_blocks>1</mess_blocks>
+		<defined>
+			<thrname></thrname>
+			<size>68</size>
+			<threadid>7904</threadid>
+			<stackstamp>53907833092</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\Valentin\documents\visual studio 2013\Projects\OSISP-2\x64\Debug\OSISP-2.exe</mod>
+			<rva>0x000000000000304C</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Valentin\documents\visual studio 2013\Projects\OSISP-2\x64\Debug\OSISP-2.exe</mod>
+			<rva>0x0000000000005EF5</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Valentin\documents\visual studio 2013\Projects\OSISP-2\x64\Debug\OSISP-2.exe</mod>
+			<rva>0x0000000000005DF2</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\system32\KERNEL32.DLL</mod>
+			<rva>0x00000000000016AB</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SYSTEM32\ntdll.dll</mod>
+			<rva>0x0000000000054407</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="16">
+	<type>1012</type>
+	<message>
+		<timestamp>98749590085</timestamp>
+		<mess_blocks>1</mess_blocks>
+		<defined>
+			<thrname></thrname>
+			<size>68</size>
+			<threadid>4128</threadid>
+			<stackstamp>53153646987</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\Valentin\documents\visual studio 2013\Projects\OSISP-2\x64\Debug\OSISP-2.exe</mod>
+			<rva>0x000000000000304C</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Valentin\documents\visual studio 2013\Projects\OSISP-2\x64\Debug\OSISP-2.exe</mod>
+			<rva>0x0000000000005EF5</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Valentin\documents\visual studio 2013\Projects\OSISP-2\x64\Debug\OSISP-2.exe</mod>
+			<rva>0x0000000000005DF2</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\system32\KERNEL32.DLL</mod>
+			<rva>0x00000000000016AB</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SYSTEM32\ntdll.dll</mod>
+			<rva>0x0000000000054407</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="17">
+	<type>1012</type>
+	<message>
+		<timestamp>98749590085</timestamp>
+		<mess_blocks>1</mess_blocks>
+		<defined>
+			<thrname></thrname>
+			<size>68</size>
+			<threadid>5388</threadid>
+			<stackstamp>96056489713</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\Valentin\documents\visual studio 2013\Projects\OSISP-2\x64\Debug\OSISP-2.exe</mod>
+			<rva>0x000000000000304C</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Valentin\documents\visual studio 2013\Projects\OSISP-2\x64\Debug\OSISP-2.exe</mod>
+			<rva>0x0000000000005EF5</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Valentin\documents\visual studio 2013\Projects\OSISP-2\x64\Debug\OSISP-2.exe</mod>
+			<rva>0x0000000000005DF2</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\system32\KERNEL32.DLL</mod>
+			<rva>0x00000000000016AB</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SYSTEM32\ntdll.dll</mod>
+			<rva>0x0000000000054407</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="18">
+	<type>1012</type>
+	<message>
+		<timestamp>98749590085</timestamp>
+		<mess_blocks>1</mess_blocks>
+		<defined>
+			<thrname></thrname>
+			<size>68</size>
+			<threadid>6540</threadid>
+			<stackstamp>53323563063</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\Valentin\documents\visual studio 2013\Projects\OSISP-2\x64\Debug\OSISP-2.exe</mod>
+			<rva>0x000000000000304C</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Valentin\documents\visual studio 2013\Projects\OSISP-2\x64\Debug\OSISP-2.exe</mod>
+			<rva>0x0000000000005EF5</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Valentin\documents\visual studio 2013\Projects\OSISP-2\x64\Debug\OSISP-2.exe</mod>
+			<rva>0x0000000000005DF2</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\system32\KERNEL32.DLL</mod>
+			<rva>0x00000000000016AB</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SYSTEM32\ntdll.dll</mod>
+			<rva>0x0000000000054407</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="19">
+	<type>1012</type>
+	<message>
+		<timestamp>98749590085</timestamp>
+		<mess_blocks>1</mess_blocks>
+		<defined>
+			<thrname></thrname>
+			<size>68</size>
+			<threadid>4224</threadid>
+			<stackstamp>53760011600</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\Valentin\documents\visual studio 2013\Projects\OSISP-2\x64\Debug\OSISP-2.exe</mod>
+			<rva>0x000000000000304C</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Valentin\documents\visual studio 2013\Projects\OSISP-2\x64\Debug\OSISP-2.exe</mod>
+			<rva>0x0000000000005EF5</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Valentin\documents\visual studio 2013\Projects\OSISP-2\x64\Debug\OSISP-2.exe</mod>
+			<rva>0x0000000000005DF2</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\system32\KERNEL32.DLL</mod>
+			<rva>0x00000000000016AB</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SYSTEM32\ntdll.dll</mod>
+			<rva>0x0000000000054407</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="20">
+	<type>1030</type>
+	<message>
+	<timestamp>98782148059</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4464</threadid>
+			<stackstamp>47128254538</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\Valentin\documents\visual studio 2013\Projects\OSISP-2\x64\Debug\OSISP-2.exe</mod>
+			<rva>0x0000000000005BF2</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Valentin\documents\visual studio 2013\Projects\OSISP-2\x64\Debug\OSISP-2.exe</mod>
+			<rva>0x000000000000584D</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Valentin\documents\visual studio 2013\Projects\OSISP-2\x64\Debug\OSISP-2.exe</mod>
+			<rva>0x0000000000009498</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Valentin\documents\visual studio 2013\Projects\OSISP-2\x64\Debug\OSISP-2.exe</mod>
+			<rva>0x00000000000095C9</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\system32\KERNEL32.DLL</mod>
+			<rva>0x00000000000016AB</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SYSTEM32\ntdll.dll</mod>
+			<rva>0x0000000000054407</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="21">
+	<type>1030</type>
+	<message>
+	<timestamp>98783007281</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4464</threadid>
+			<stackstamp>47184701980</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\Valentin\documents\visual studio 2013\Projects\OSISP-2\x64\Debug\OSISP-2.exe</mod>
+			<rva>0x0000000000005BF2</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Valentin\documents\visual studio 2013\Projects\OSISP-2\x64\Debug\OSISP-2.exe</mod>
+			<rva>0x000000000000584D</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Valentin\documents\visual studio 2013\Projects\OSISP-2\x64\Debug\OSISP-2.exe</mod>
+			<rva>0x0000000000009498</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Valentin\documents\visual studio 2013\Projects\OSISP-2\x64\Debug\OSISP-2.exe</mod>
+			<rva>0x00000000000095C9</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\system32\KERNEL32.DLL</mod>
+			<rva>0x00000000000016AB</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SYSTEM32\ntdll.dll</mod>
+			<rva>0x0000000000054407</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="22">
+	<type>1030</type>
+	<message>
+	<timestamp>98783802869</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4464</threadid>
+			<stackstamp>47099259066</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\Valentin\documents\visual studio 2013\Projects\OSISP-2\x64\Debug\OSISP-2.exe</mod>
+			<rva>0x0000000000005BF2</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Valentin\documents\visual studio 2013\Projects\OSISP-2\x64\Debug\OSISP-2.exe</mod>
+			<rva>0x000000000000584D</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Valentin\documents\visual studio 2013\Projects\OSISP-2\x64\Debug\OSISP-2.exe</mod>
+			<rva>0x0000000000009498</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Valentin\documents\visual studio 2013\Projects\OSISP-2\x64\Debug\OSISP-2.exe</mod>
+			<rva>0x00000000000095C9</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\system32\KERNEL32.DLL</mod>
+			<rva>0x00000000000016AB</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SYSTEM32\ntdll.dll</mod>
+			<rva>0x0000000000054407</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="23">
+	<type>1030</type>
+	<message>
+	<timestamp>98784635392</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4464</threadid>
+			<stackstamp>47054772922</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\Valentin\documents\visual studio 2013\Projects\OSISP-2\x64\Debug\OSISP-2.exe</mod>
+			<rva>0x0000000000005BF2</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Valentin\documents\visual studio 2013\Projects\OSISP-2\x64\Debug\OSISP-2.exe</mod>
+			<rva>0x000000000000584D</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Valentin\documents\visual studio 2013\Projects\OSISP-2\x64\Debug\OSISP-2.exe</mod>
+			<rva>0x0000000000009498</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Valentin\documents\visual studio 2013\Projects\OSISP-2\x64\Debug\OSISP-2.exe</mod>
+			<rva>0x00000000000095C9</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\system32\KERNEL32.DLL</mod>
+			<rva>0x00000000000016AB</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SYSTEM32\ntdll.dll</mod>
+			<rva>0x0000000000054407</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="24">
+	<type>1030</type>
+	<message>
+	<timestamp>98785411706</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4464</threadid>
+			<stackstamp>47193907689</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\Valentin\documents\visual studio 2013\Projects\OSISP-2\x64\Debug\OSISP-2.exe</mod>
+			<rva>0x0000000000005BF2</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Valentin\documents\visual studio 2013\Projects\OSISP-2\x64\Debug\OSISP-2.exe</mod>
+			<rva>0x000000000000584D</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Valentin\documents\visual studio 2013\Projects\OSISP-2\x64\Debug\OSISP-2.exe</mod>
+			<rva>0x0000000000009498</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Valentin\documents\visual studio 2013\Projects\OSISP-2\x64\Debug\OSISP-2.exe</mod>
+			<rva>0x00000000000095C9</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\system32\KERNEL32.DLL</mod>
+			<rva>0x00000000000016AB</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SYSTEM32\ntdll.dll</mod>
+			<rva>0x0000000000054407</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+</diags>
