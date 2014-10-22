@@ -131,6 +131,6 @@ void FindHashOfFile::Log()
 {
 	if (logmessage != NULL)
 	{
-		printf("%d Hash of %ls is %ls\n", GetCurrentThreadId(), filename, logmessage);
+		printf("%5d Hash of %ls is %ls\n", GetCurrentThreadId(), filename, logmessage);
 	}
 }

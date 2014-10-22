@@ -24,11 +24,10 @@ wchar_t* FileIterator::NextFile()
 
 		if (hf == NULL)
 		{
-			wchar_t* buffer = static_cast<wchar_t*>(malloc(wcslen(directoryPath) + 20));
+			wchar_t* buffer = static_cast<wchar_t*>(malloc((wcslen(directoryPath)+2)*sizeof(wchar_t)));
 			buffer = wcscpy(buffer, directoryPath);
 			buffer = wcscat(buffer, L"\\*.*");
 			hf = FindFirstFile(buffer, &FindFileData);
-			free(buffer);
 		}
 		else
 		{
